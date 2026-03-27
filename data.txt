@@ -1,0 +1,26 @@
+{
+  "menu_title": "SYSTEM SELECT",
+  "systems": [
+    {
+      "name": "XGEN EXCLUSIVE MOD",
+      "status": "ONLINE",
+      "lib_name": "libXXGen.so",
+      "download_url": "https://xgenpanel.x10.mx/XGEN/libXXGen.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "XGEN MOD V1",
+      "status": "ONLINE",
+      "lib_name": "libXXGen.so",
+      "download_url": "https://tbuild.x10.mx/XGenhost/libXXGen.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "XGEN DELUXE",
+      "status": "OFFLINE",
+      "lib_name": "libXXGendeluxe.so",
+      "download_url": "https://xgenpanel.x10.mx/XGEN/libXXGendeluxe.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    }
+  ]
+}
