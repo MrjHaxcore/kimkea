@@ -17,7 +17,7 @@
     },
     {
       "name": "XGEN MOD V3",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "libXXGenv3.so",
       "download_url": "https://xgenpanel.x10.mx/XGEN/libXXGenv3.so",
       "game_package": "com.tencent.tmgp.cod"
