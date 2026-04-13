@@ -3,7 +3,7 @@
   "systems": [
     {
       "name": "XGEN MOD V1",
-      "status": "OFFLINE",
+      "status": "ONLINE",
       "lib_name": "libXXGenv1.so",
       "download_url": "https://xgenpanel.x10.mx/XGEN/libXXGenv2.so",
       "game_package": "com.tencent.tmgp.cod"
