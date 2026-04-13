@@ -1,26 +1,27 @@
+
 {
-  "menu_title": "SYSTEM SELECT",
+  "menu_title": "XGEN SYSTEM SELECT",
   "systems": [
-    {
-      "name": "XGEN EXCLUSIVE MOD",
-      "status": "ONLINE",
-      "lib_name": "libXXGen.so",
-      "download_url": "https://xgenpanel.x10.mx/XGEN/libXXGen.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
     {
       "name": "XGEN MOD V1",
       "status": "ONLINE",
-      "lib_name": "libXXGen.so",
-      "download_url": "https://tbuild.x10.mx/XGenhost/libXXGen.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+      "lib_name": "XXGenv1.so",
+      "download_url": "https://x10.mx",
+      "game_package": "com.tencent.tmgp.cod"
     },
     {
-      "name": "XGEN DELUXE",
-      "status": "OFFLINE",
-      "lib_name": "libXXGendeluxe.so",
-      "download_url": "https://xgenpanel.x10.mx/XGEN/libXXGendeluxe.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+      "name": "XGEN MOD V2",
+      "status": "ONLINE",
+      "lib_name": "XXGenv2.so",
+      "download_url": "https://xgenpanel.x10.mx/Farlight/XXGenv2.so",
+      "game_package": "com.tencent.tmgp.cod"
+    },
+    {
+      "name": "XGEN MOD V3",
+      "status": "ONLINE",
+      "lib_name": "XXGenv3.so",
+      "download_url": "https://xgenpanel.x10.mx/Farlight/XXGenv3.so",
+      "game_package": "com.tencent.tmgp.cod"
     }
   ]
 }
