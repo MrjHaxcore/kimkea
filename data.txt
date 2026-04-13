@@ -5,22 +5,22 @@
     {
       "name": "XGEN MOD V1",
       "status": "ONLINE",
-      "lib_name": "XXGenv1.so",
-      "download_url": "https://xgenpanel.x10.mx/XGEN/XXGenv2.so",
+      "lib_name": "libXXGenv1.so",
+      "download_url": "https://xgenpanel.x10.mx/XGEN/libXXGenv2.so",
       "game_package": "com.tencent.tmgp.cod"
     },
     {
       "name": "XGEN MOD V2",
       "status": "ONLINE",
-      "lib_name": "XXGenv2.so",
-      "download_url": "https://xgenpanel.x10.mx/XGEN/XXGenv2.so",
+      "lib_name": "libXXGenv2.so",
+      "download_url": "https://xgenpanel.x10.mx/XGEN/libXXGenv2.so",
       "game_package": "com.tencent.tmgp.cod"
     },
     {
       "name": "XGEN MOD V3",
       "status": "ONLINE",
-      "lib_name": "XXGenv3.so",
-      "download_url": "https://xgenpanel.x10.mx/XGEN/XXGenv3.so",
+      "lib_name": "libXXGenv3.so",
+      "download_url": "https://xgenpanel.x10.mx/XGEN/libXXGenv3.so",
       "game_package": "com.tencent.tmgp.cod"
     }
   ]
